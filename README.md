@@ -23,9 +23,7 @@ A responsive **Netflix landing page clone** built using **HTML5** and **CSS3**. 
 
 Example:
 
-```
-images/screenshot.png
-```
+
 
 ## 📂 Project Structure
 
